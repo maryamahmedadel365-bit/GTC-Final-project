@@ -84,6 +84,7 @@ Build a face recognition model with:
 - *Presentation Slides:* 
  https://drive.google.com/drive/folders/1BGlp9aN-vVxYzPq_kVk6MjJZwE-7cu8x
 - *Project Demo Video:*
+ https://drive.google.com/file/d/1UuzgsClL-wA0dheupN3U3oGO85mCvhd4/view?usp=drive_link
 
 ---
 ## 👥 Team Contributions
