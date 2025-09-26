@@ -94,6 +94,5 @@ Build a face recognition model with:
 - Expand dataset (e.g., VGGFace2) for better generalization
 - Optimize performance for real-time large-scale deployment
 
----
-
-## 📦 Repository Structure
+ 
+ 
