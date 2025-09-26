@@ -79,6 +79,12 @@ Build a face recognition model with:
 
 ---
 
+## 📹 Demo & Slides
+
+- *Presentation Slides:* 
+ https://drive.google.com/drive/folders/1BGlp9aN-vVxYzPq_kVk6MjJZwE-7cu8x
+- *Project Demo Video:*
+
 ## 👥 Team Contributions
 
 - *Esraa Sobhy Salama* – Data collection & preprocessing, Model training & validation  
